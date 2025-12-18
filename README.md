@@ -36,7 +36,7 @@ This project goes beyond standard K-Means implementations by introducing an "Age
 
 | K-Selection Agent | Live Simulation |
 | ----------------- | --------------- |
-| ![K-Select](url-to-your-screenshot-1.png) | ![Simulation](url-to-your-screenshot-2.png) |
+| ![K-Select](url-to-your-screenshot-1.png) | ![List Data Which Cluster](url-to-your-screenshot-2.png) |
 
 *(Not: Ekran görüntülerini yükleyip linklerini buraya koyarsın)*
 
